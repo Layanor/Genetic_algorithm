@@ -1,5 +1,6 @@
 # Genetic_algorithm
 our goal is to optimize a container-loadingplan. The loading plan involves loading the shipment items, each of which weighs adifferent amount, into the available containers such that the weights of the items aredistributed evenly between containers. 
+
 For example, if there are six items with weights asfollows: 
 item1=17kg, item2=12kg, item3=19kg, item4=6kg, item5=4kg and item6=28kg
 
